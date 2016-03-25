@@ -1,0 +1,93 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\IO$.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Run$.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Language$.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\IO.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Run$$anonfun$main$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Language.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\IO$$anonfun$readDocuments$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Document$.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes$$anonfun$mostLikelyLanguage$2.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes$$anonfun$p_docAndLg$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes$$anonfun$train$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Run.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes$$anonfun$mostLikelyLanguage$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\NaiveBayes$$anonfun$train$1$$anonfun$apply$1.class, D:\UB\cse567 - CL\Projects\1\lin567_p1\target\scala-2.11\classes\lin567_p1\Document.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala, D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala, D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to D:\UB\cse567_CL\Projects\1\lin567_p1\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 5e88583a, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes;C:\Users\ashwi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\UB\cse567_CL\Projects\1\lin567_p1\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 8.704843871 s[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\labels.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, text, canEqual, productPrefix, notifyAll, isInstanceOf, <init>, Language, id, language, ==, clone, copy$default$3, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode, Document.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala: Set(text, <init>, id, ==, !=)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala: Set(text, <init>, id, ne)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala: Set(text, <init>, Language, language, toString, ne, Document)[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\io.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, readDocuments, notifyAll, isInstanceOf, ==, clone, extractNGrams, toString, !=, IO, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala: Set(readDocuments, IO, ne)[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, Run, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, p_Lg, equals, docLanguageCounts, asInstanceOf, synchronized, $isInstanceOf, p_wordGivenLg, notifyAll, p_docAndLg, isInstanceOf, mostLikelyLanguage, NaiveBayes, docCount, vocab, <init>, ==, clone, languageTotalWords, toString, !=, train, getClass, languageWordCounts, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\io.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, readDocuments, notifyAll, isInstanceOf, ==, clone, extractNGrams, toString, !=, IO, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\Run.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, Run, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\NaiveBayes.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, p_Lg, equals, docLanguageCounts, asInstanceOf, synchronized, $isInstanceOf, p_wordGivenLg, notifyAll, p_docAndLg, isInstanceOf, mostLikelyLanguage, NaiveBayes, docCount, vocab, <init>, ==, clone, languageTotalWords, toString, !=, train, getClass, languageWordCounts, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\UB\cse567_CL\Projects\1\lin567_p1\src\main\scala\Run.scala: Set(mostLikelyLanguage, NaiveBayes, <init>, train, ne)[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\UB\cse567 - CL\Projects\1\lin567_p1\src\main\scala\labels.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, text, canEqual, productPrefix, notifyAll, isInstanceOf, <init>, Language, id, language, ==, clone, copy$default$3, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode, Document.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
